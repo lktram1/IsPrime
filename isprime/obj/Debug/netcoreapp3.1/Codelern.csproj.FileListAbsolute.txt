@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codelern\bin\Debug\netcoreapp3.1\Codelern.exe
+C:\Users\Admin\Desktop\Codelern\bin\Debug\netcoreapp3.1\Codelern.deps.json
+C:\Users\Admin\Desktop\Codelern\bin\Debug\netcoreapp3.1\Codelern.runtimeconfig.json
+C:\Users\Admin\Desktop\Codelern\bin\Debug\netcoreapp3.1\Codelern.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codelern\bin\Debug\netcoreapp3.1\Codelern.dll
+C:\Users\Admin\Desktop\Codelern\bin\Debug\netcoreapp3.1\Codelern.pdb
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.dll
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.pdb
+C:\Users\Admin\Desktop\Codelern\obj\Debug\netcoreapp3.1\Codelern.genruntimeconfig.cache
